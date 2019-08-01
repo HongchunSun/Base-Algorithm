@@ -2,7 +2,7 @@
 Implementation of Basic Algorithms. Such as ML, Optimization, Operation and so on.
 
 ## Data
-1.Add 'data_multivar.txt' for bayes method
+1.Add `data_multivar.txt` for bayes method
 
 ## Linear
 Implementation with sklearn and tensorflow
