@@ -7,5 +7,8 @@ Implementation of Basic Algorithms. Such as ML, Optimization, Operation and so o
 ## Linear
 Implementation with sklearn and tensorflow
 
-## Statistical method
+## Statistical Method
 Implementation the bayes method with sklearn
+
+## Operation Method
+Implementation the Hungary method
