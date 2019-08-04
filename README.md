@@ -3,9 +3,11 @@ Implementation of Basic Algorithms. Such as ML, Optimization, Operation and so o
 
 ## Data
 1.Add `data_multivar.txt` for bayes method
+2.Add `data_multivar_imbalance.txt` for liner_SVM model
 
 ## Linear
 Implementation with sklearn and tensorflow
+Implementation the liner_SVM model
 
 ## Statistical Method
 Implementation the bayes method with sklearn
