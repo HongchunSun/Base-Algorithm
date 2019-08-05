@@ -14,3 +14,8 @@ Implementation the bayes method with sklearn
 
 ## Operation Method
 Implementation the Hungary method
+Implementation dynamic programming method
+
+## Interpolation
+Implementation Cubic Spline Interpolation
+Implementation Quadratic Spline Interpolation
